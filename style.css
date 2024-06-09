@@ -17,5 +17,11 @@ textbig {
 }
 
 button {
-    align-items: center;
+    padding: 5px;
+    border-color: #616161;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 12px;
+
+    width: 400px;
 }
