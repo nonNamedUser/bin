@@ -4,13 +4,15 @@ body {
     border-radius: 12px;
 }
 
-text {
+div {
     align-items: center;
+}
+
+text {
     color:floralwhite;
 }
 textbig {
     font-size: 48px;
-    align-items: center;
     color:floralwhite;
 }
 
