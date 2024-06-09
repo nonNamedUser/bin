@@ -4,8 +4,9 @@ body {
     border-radius: 12px;
 }
 
-div {
+epic {
     align-items: center;
+    direction: column;
 }
 
 text {
